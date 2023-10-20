@@ -2,7 +2,10 @@
 
 ## SRC:
 ### Installing and Building your code
+***LIST HOW TO INSTALL AND RUN, I DIDNT WRITE SO CANT DO***
+
 ### Usage of your Code
+PD_EDA: The goal of this notebook is to get value counts for each landmark. We pre-selected 40 landmarks that we wanted to train our model with. We later found out that even though some of these are famous landmarks, there are not a lot of images for some, or they are under multiple names. Finding each and every label for our desired landmarks is a lot of work that we might not be able to do within the given time. After looking at our desired landmarks, we looked at the most common landmark ID's and ordered them by count.
 
 ## DATA:
 ### Data Dictionaries:
@@ -18,4 +21,8 @@
 ### https://github.com/cvdfoundation/google-landmark
 We used a Python script in order to merge two of the data sets regarding image IDs and their landmarks. With this, we then found a count of all landmarks and sorted from greatest to least. We noticed, however, that many of the locations with the most images were simply military bases in the United States and around the world. Thus, we chose 35 hand-picked locations to use in the model, to try and make the project both interesting, while still having enough data to make the model work correctly. We purposefully chose different counts of images though, to see how the model reacts to having different amounts of training data (with a general range of about ~30 to ~1000 images for training). 
 
-## 
+## FIGURES:
+***ADD UPDATED FIGURE HERE WHEN YOU GO IT***
+
+## REFERENCES:
+I will add tomorrow afternoon after we start actually getting some done
