@@ -2,14 +2,18 @@
 
 ## SRC:
 ### Installing and Building your code
-PD_EDA Requires Jupyter Notebook and Python in order to run. Additionally, change the .csv file paths for your computer
+PD_EDA Requires Jupyter Notebook and Python in order to run. Additionally, change the .csv file paths for your computer.
 
 Image Neural Network.py requires TensorFlow, PIL, and NumPy installed in Python to run. 
+
+Final_Landmarks.py requires Jupyeter Notebook and Python in order to run. Additionally, change the .csv file paths for your computer.
 
 ### Usage of your Code
 PD_EDA: This notebook aims to get value counts for each landmark. We pre-selected 40 landmarks that we wanted to train our model with. We later found out that even though some of these are famous landmarks, there are not a lot of images for some, or they are under multiple names. Finding each and every label for our desired landmarks is a lot of work that we might not be able to do within the given time. After looking at our desired landmarks, we looked at the most common landmark IDs and ordered them by count.
 
 Image Neural Network.py: This script is used to download the images, pre-process the data, and then run a basic Neural Network model on the images. 
+
+Final_Landmarks: This notebook is functionally the same as PD_EDA. The difference is that this notebook shows the counts for the 35 landmarks we decided to use after exploratory data analysis. 
 
 ## DATA:
 ### Data Dictionaries:
