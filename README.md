@@ -30,10 +30,11 @@ Final_Landmarks: This notebook is functionally the same as PD_EDA. The differenc
 We used a Python script in order to merge two of the data sets regarding image IDs and their landmarks. With this, we then found a count of all landmarks and sorted from greatest to least. We noticed, however, that many of the locations with the most images were simply military bases in the United States and around the world. Thus, we chose 35 hand-picked locations to use in the model, to try and make the project both interesting, while still having enough data to make the model work correctly. We purposefully chose different counts of images though, to see how the model reacts to having different amounts of training data (with a general range of about ~30 to ~1000 images for training). 
 
 ## FIGURES:
+### Figure 1: Counts of the 30 most common landmarks
 ![image](https://github.com/BrendanKeaton/Project2_DS4002/assets/100185367/9eade716-88e3-44dc-b81b-a1a3753cab00)
-
+### Figure 2: Counts of our pre-selected landmarks
 ![image](https://github.com/BrendanKeaton/Project2_DS4002/assets/100185367/7031510c-49f2-4dcf-a97b-35b924664cb2)
-
+### Figure 3: Counts of our final selected landmarks
 ![image](https://github.com/BrendanKeaton/Project2_DS4002/blob/main/FIGURES/final_landmark_counts.png)
 
 ## REFERENCES:
