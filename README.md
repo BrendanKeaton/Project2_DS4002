@@ -38,4 +38,10 @@ We used a Python script in order to merge two of the data sets regarding image I
 ![image](https://github.com/BrendanKeaton/Project2_DS4002/blob/main/FIGURES/final_landmark_counts.png)
 
 ## REFERENCES:
-None
+"Google Landmarks Dataset v2 - A Large-Scale Benchmark for Instance-Level Recognition and Retrieval"
+T. Weyand*, A. Araujo*, B. Cao, J. Sim
+Proc. CVPR'20
+
+"Optimization of Rank Losses for Image Retrieval"
+E. Ramzi, N. Audebert, C. Rambour, A. Araujo, X. Bitot, N. Thome
+In submission to: IEEE Transactions on Pattern Analysis and Machine Intelligence.
