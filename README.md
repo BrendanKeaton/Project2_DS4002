@@ -28,6 +28,9 @@ We used a Python script in order to merge two of the data sets regarding image I
 ## FIGURES:
 ![image](https://github.com/BrendanKeaton/Project2_DS4002/assets/100185367/9eade716-88e3-44dc-b81b-a1a3753cab00)
 
+![image](https://github.com/BrendanKeaton/Project2_DS4002/assets/100185367/7031510c-49f2-4dcf-a97b-35b924664cb2)
+
+
 
 ## REFERENCES:
 None
