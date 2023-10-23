@@ -30,4 +30,4 @@ We used a Python script in order to merge two of the data sets regarding image I
 
 
 ## REFERENCES:
-I will add tomorrow afternoon after we start actually getting some done
+None
