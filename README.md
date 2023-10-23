@@ -1,5 +1,5 @@
 # Neural Network Algorithm to Guess Famous Locations
-
+https://docs.google.com/spreadsheets/d/1C3bwJgl-Js3vmslL6Kx5R_t-O-dHueyx3v5wEyaLBZk/edit?usp=sharing
 ## SRC:
 ### Installing and Building your code
 PD_EDA Requires Jupyter Notebook and Python in order to run. Additionally, change the .csv file paths for your computer.
