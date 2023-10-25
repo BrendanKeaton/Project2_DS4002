@@ -35,7 +35,7 @@ We used a Python script in order to merge two of the data sets regarding image I
 
 ## FIGURES:
 ### Figure 1: Counts of the 30 most common landmarks for the original dataset:
-![image](https://github.com/BrendanKeaton/Project2_DS4002/blob/main/FIGURES/top30.png)
+![image](FIGURES/top30.png)
 
 ## REFERENCES:
 "Google Landmarks Dataset v2 - A Large-Scale Benchmark for Instance-Level Recognition and Retrieval"
