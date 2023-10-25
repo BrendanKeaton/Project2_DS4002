@@ -34,7 +34,7 @@ Once we realized how out of scope that data set was though, we collected our own
 We used a Python script in order to merge two of the data sets regarding image IDs and their landmarks. With this, we then found a count of all landmarks and sorted from greatest to least. We noticed, however, that many of the locations with the most images were simply military bases in the United States and around the world. Thus, we chose 35 hand-picked locations to use in the model, to try and make the project both interesting, while still having enough data to make the model work correctly. We purposefully chose different counts of images though, to see how the model reacts to having different amounts of training data (with a general range of about ~30 to ~1000 images for training). 
 
 ## FIGURES:
-### Figure 1: Counts of the 30 most common landmarks for original dataset:
+### Figure 1: Counts of the 30 most common landmarks for the original dataset:
 ![image](https://github.com/BrendanKeaton/Project2_DS4002/assets/100185367/9eade716-88e3-44dc-b81b-a1a3753cab00)
 
 ## REFERENCES:
